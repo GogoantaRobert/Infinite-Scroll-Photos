@@ -1,1 +1,1 @@
-# Infinite-Scroll-Photos
+# Infinite-Scroll
